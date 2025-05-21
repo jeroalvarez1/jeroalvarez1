@@ -1,8 +1,5 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Jeronimo Alvarez</a> 💻👋</h1>
 
-
-SOY RE CRACK
-
 ---
 Front-end:
  <br>
